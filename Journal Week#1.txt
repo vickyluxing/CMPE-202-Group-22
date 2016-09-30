@@ -1,0 +1,17 @@
+6.2 : Simplicity:
+Less is More. Simplicity is an important value in teamwork, especially in an agile team. In the agile manifesto, simplicity is explained as ¡°The Art of Maximizing Work Not Done¡± which means every work should be decluttered to simple issue or task, and finished with efficiency. This way, team could finish each task on time and thus simplifying the entire work. This also applies to modification and debugging. To practice this principle, our team should focus on several agile thinking and practices. 
+
+1.Backlog refinement 
+Set simple and small backlog at start
+2.Simple rules to be self-organized
+Not much restriction in working
+3.Test driven development 
+Just enough code to pass test every time
+4.Simple task board
+Keep the task board clear and simple for team to work on
+5.Simple retrospectives 
+Retrospect each sprint concisely for the preparation for the next sprint
+
+In the future work, we should follow these rules to finish every task and component in a simple way and get quick feedback. Simply backlog, develop and retrospect every sprint to increase efficiency.
+
+9/18 Our team is working on the topic of the project. We separate the work to simple task for everyone, and write down some basic issues we will face in the future on backlog.
