@@ -1,0 +1,12 @@
+Game is about 2 players trying to find out the correct position of the number the opponent chose
+Steps:
+0) Screen opens with 52 battleships, 26 assigned for each player.
+1) 2 players come.
+2) They select one number individually in public.
+3) The selected number with 25 other random numbers are assigned to battleships for each player, according to linear or binary search algorithm.
+4) Players guess the number selected by other player, by clicking the battleships one at a time, in turns.
+5) Once a battleship is clicked, for linear search it displays the number assigned to it, and for binary search the numbers assigned to it and all other ships which are not in limit now.
+6) Process continues till a member guesses the position of the opponent’s number correct by clicking on correct battleship.
+7) Player who guesses correct position of number is the winner.
+
+
