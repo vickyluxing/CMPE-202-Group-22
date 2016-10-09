@@ -14,6 +14,12 @@ public class BattleshipBlack extends Actor
      */
     public void act() 
     {
-        // Add your action code here.
+       if(Greenfoot.mouseClicked(this))
+        {
+            World world;
+            world = getWorld();
+            world.removeObject(this);
+            return;
+      }
     }    
 }
