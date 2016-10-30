@@ -1,0 +1,15 @@
+Week#1 
+what is courage? Courage is the choice and willingness to confront agony, pain, danger, uncertainty or intimidation.It is a strong faith that we can do it, we can make it, no matter what kind of trouble or problem we are in! Nothing in the world is difficult if you put your heart into it!During the development of a project, there are full of  unforeseeable uncertainty. It is very common that team got stucked by some bugs during the development and the test. Sometimes, a single bug may take hours,days even weeks to solve it,especially on some big project.
+So, we need to prepare ourselves, to be ready to face any problems! To help the develop the project, we should not afraid asking question to each other, we should not afraid dealing the bugs, we should not afraid the uncertainty. We are a team, with courage, we can create the whole world!
+  
+Week#2
+We had a regular meeting yesterday after class. On the meeting, we had a discussion about the topics we choose last week. We discussed about the complexity, implement, acceptability and some other attributes about each other’s  topic. All of the team member are quite confidence about their topic. After 40 minutes discussion, we decided to choose Akshay’s topic which aimed at teaching kids the principles of binary search and linear search and help them figure out which one is faster though the game! We also assigned works to each team member, and we are so confidence that we are going to finish the project perfectly!
+
+
+Week#3
+This week, we have finalized our project topic and get the initial version of the game. 
+When we first discussed the feasibility of the project, we met a problem on designing the detail of the game.  We first worried that both the two players would see each other’s number while selecting.Amit came up with a good idea that we can cover the number with the ship and can only show it to each other while click on ship which perfectly solve the problem. And he also designed the first version of the GUI. All this week, we never stop discussing the project via WhatsApp and email. No matter what challenge or difficulty we met, we will solve it together!
+
+
+Week#4:
+This week our team keep working on the design of battleships. In version 3, our team member, Amit, designed the welcome screen which is awesome! It will show on the screen when we run it and disappear automatically after 3second delay. Akshay found some similar games which can help us better design the details of game. Now, we are focus on the orders of numbers and battleships, which is one of the most difficulty and important components in our project. We all are full of confidence that we all get perfect performance and teach kids understand the theory behind binary search!
