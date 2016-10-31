@@ -1,19 +1,18 @@
-6.2 : Simplicity:
-Less is More. Simplicity is an important value in teamwork, especially in an agile team. In the agile manifesto, simplicity is explained as ¡°The Art of Maximizing Work Not Done¡± which means every work should be decluttered to simple issue or task, and finished with efficiency. This way, team could finish each task on time and thus simplifying the entire work. This also applies to modification and debugging. To practice this principle, our team should focus on several agile thinking and practices. 
+Week#1 
+We created our team name -- Green Hand, team logo, and some basic rules to follow in teamwork, sufficient for everyone to obey and participate actively as well. Then our team started working on the topic of the project. Based on the CS Unplugged website, We separated the work to several sections for each one to dig in, and wrote down some basic issues like finding specific topic, program interface, game materials, contact school, which we will face in the future on the backlog. 
 
-1.Backlog refinement 
-Set simple and small backlog at start
-2.Simple rules to be self-organized
-Not much restriction in working
-3.Test driven development 
-Just enough code to pass test every time
-4.Simple task board
-Keep the task board clear and simple for team to work on
-5.Simple retrospectives 
-Retrospect each sprint concisely for the preparation for the next sprint
 
-In the future work, we should follow these rules to finish every task and component in a simple way and get quick feedback. Simply backlog, develop and retrospect every sprint to increase efficiency.
+Week#2 
+This week, we followed the task board to find interesting topics for our project. And weekly meeting proceeded successfully with on-point discussion. Each member introduced briefly on their assigned topics, and summarized their topics with a basic algorithm or graph. When misunderstanding happened in introducing the topic, another one could brief that idea to help the meeting move forward. After a short discussion and vote, we finalized our project topic on implementing Binary Search Algorithm. Then we discussed about the class diagram and UI, planning to use boats and simple number pads for the game which can present the algorithm simply and make the game easy to understand by children. And we also updated the backlog with discussed new issues.
 
-Week#1 We created our team name -- Green Hand, team logo, and some basic rules to follow in teamwork, sufficient for everyone to obey and participate actively as well. Then our team started working on the topic of the project. Based on the CS Unplugged website, We separated the work to several sections for each one to dig in, and wrote down some basic issues like finding specific topic, program interface, game materials, contact school, which we will face in the future on the backlog. 
 
-Week#2 This week, we followed the task board to find interesting topics for our project. And weekly meeting proceeded successfully with on-point discussion. Each member introduced briefly on their assigned topics, and summarized their topics with a basic algorithm or graph. When misunderstanding happened in introducing the topic, another one could brief that idea to help the meeting move forward. After a short discussion and vote, we finalized our project topic on implementing Binary Search Algorithm. Then we discussed about the class diagram and UI, planning to use boats and simple number pads for the game which can present the algorithm simply and make the game easy to understand by children. And we also updated the backlog with discussed new issues.
+Week#3 
+This week, we designed the Greenfoot sketch of our project, then we transformed this idea into several lines of code. In the discussion, while testing our process in the sketch, we met some troubles in implementing this game into multi-player version. To hide the key information from the other player, we chose to create random number arrays so that the information is transparent to each player. While the logical test passed, we began to write the functions inside this sketch. To get things move faster, we crumbled the task to small pieces like basic class design, creation of random arrays, connection between numbers and battleships, button click motion. During this process, we worked efficiently for our common goal.
+
+
+Week#4
+To transform the binary search algorithm more comprehensibly into JAVA program, we modified our design this week. We truncated the redundant part of generating different arrays and random numbers, instead generating the same array for both players. By controlling these variables, the game process became more clear and concise. And the rest of work was splitted into three parts based on functions and requirements, the UI modification, program related diagrams and game logic. In the logic part, we implemented the idea into program within short time-sprint and pushed it on Github, so that every member could test run and gave feedbacks about logic flaws and insufficiency. And indeed it save time in prediction of corner situations in programming. In UI part, we added the welcome page so as to make the game more interesting. Besides, we merged some tasks on task board to keep it concise. Everyone worked closely with each other, in group meeting and on whatsapp. Once issues popped up in Github, feedback came fast from every corner of the team. With efficiency work by everyone, our game became more complete. 
+
+
+Week#5
+This week we retrospected our previous design sprint through a team meeting. Based on requirements, we modified our design and splited the design tasks for everyone as use case, user story, UI wireframes, sequence diagram and activity diagram. For each part, we planned to keep simple first and added part by part later on. Then, we finished our logic part with modified UI design. Everyone gave their ideas and tests design for our game. Accordingly, we did several unit tests, and passed the tests by improving the code quality. During another meeting, we solved the scene-switch problem from welcome scene to game start scene. Bringing everybody¡¯s own issues on the table indeed is a good way to solve problems. We can quickly locate the problem and solve it together. We also discussed to fill more into our business logic, like more game status data. Everyone just followed the blackboard and finished their own part..
