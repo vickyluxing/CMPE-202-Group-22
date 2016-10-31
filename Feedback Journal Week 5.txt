@@ -1,0 +1,5 @@
+Feedback Journal Week#5:
+We completed our game’s user interface transition jumps this week. We had team meeting among all the team members and had feedback from every member over the user interface of the game. Accordingly, we decided the transitions in the user interface- which is how the control is transferred among different UI elements, in order to provide a lucid user experience to the end user of the game. With mutual feedback, once we settled over how our user interface elements should be placed and how the jump between elements for transitions should take place, we modified the greenfoot world of our game, updating user interface graphic elements and the backend code settings. Team was happy with the user interface, evidenced by the feedback of the team.
+
+
+Further,in the team meeting, team discussed how to progress on the part 2 of the game, and about the strategies and plan to follow. Everyone participated actively, and gave their inputs and feedbacks. We divided our tasks in order to progress effectively.

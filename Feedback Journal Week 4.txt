@@ -1,0 +1,3 @@
+This week we designed welcome screen of the game. Welcome screen will transition to the game screen where players will click on the battleships to find the given number. Given number would be associated with one of the battleships, while rest of battleships will have random numbers associated with them.
+
+GUI for welcome screen was presented to the team and team accepted it with a positive feedback. We also had a mutual positive feedback established - about our welcome screen being in same tune and flavor as with the main screen of the game which was presented last week. Team seemed to be engaged further on backend algorithm and functionality for the game design. 
