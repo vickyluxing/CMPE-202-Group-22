@@ -17,6 +17,8 @@ public class MyWorld extends World
     {    
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(1090, 600, 1); 
+        welcome();
+        // prepare();
         prepare();
     }
 
@@ -26,11 +28,7 @@ public class MyWorld extends World
      */
     private void prepare()
     {
-        WelcomeScreen screen= new WelcomeScreen();
-        addObject(screen,545,300);
-        Greenfoot.delay(1000);
-        //removeObject(screen);
-      /*
+/*
         //Start of BattleshipBlue Objects
         BattleshipBlue[] battleshipBlues=new BattleshipBlue[26];
         BattleshipBlue battleshipBlue1 = new BattleshipBlue();
@@ -85,7 +83,7 @@ public class MyWorld extends World
         addObject(battleshipBlue25,1020,150);
         BattleshipBlue battleshipBlue26 = new BattleshipBlue();
         addObject(battleshipBlue26,380,150);
-        
+
         //Start of BattleshipBlack Objects
         BattleshipBlack battleshipBlack1 = new BattleshipBlack();
         addObject(battleshipBlack1,60,420);
@@ -138,7 +136,22 @@ public class MyWorld extends World
         BattleshipBlack battleshipBlack25 = new BattleshipBlack();
         addObject(battleshipBlack25,940,520);
         BattleshipBlack battleshipBlack26 = new BattleshipBlack();
-        addObject(battleshipBlack26,1020,520);
-*/
+        addObject(battleshipBlack26,1020,520); */
+
+        
+         WelcomeScreen screen= new WelcomeScreen();
+        addObject(screen,545,300);
+        
+        EnterButton enterbutton = new EnterButton();
+        addObject(enterbutton,549,544);
+        //enterbutton.setLocation(549,544);
+        
     }
+    
+    public void welcome(){
+       
+        //Greenfoot.delay(10000);
+        //removeObject(screen);
+      }
+    
 }
