@@ -2,7 +2,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 public class LogicCore extends Actor
 {
-    public static boolean flag=true;  
     
     public void act() {
         //Greenfoot.ask("what number");

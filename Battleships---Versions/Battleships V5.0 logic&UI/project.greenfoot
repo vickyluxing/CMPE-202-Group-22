@@ -1,7 +1,8 @@
 #Greenfoot properties
-#Thu Nov 03 16:55:29 PDT 2016
+#Thu Nov 03 17:35:56 PDT 2016
 target4.type=ClassTarget
 class.EnterButton.image=Enter.png
+class.BattleShip.superclass=greenfoot.Actor
 dependency3.from=MyWorld
 target3.height=50
 class.EnterButton.superclass=greenfoot.Actor
@@ -10,6 +11,7 @@ readme.y=10
 dependency3.type=UsesDependency
 readme.x=10
 class.WelcomeScreen.superclass=greenfoot.Actor
+class.successWorld.image=Waves.jpg
 target4.name=BattleshipBlue
 target4.typeParameters=
 readme.width=47
@@ -20,10 +22,13 @@ target1.height=50
 target5.type=ClassTarget
 target3.typeParameters=
 dependency4.from=MyWorld
+class.BattleshipBlues.image=BattleshipBlue.png
 mainWindow.width=1366
 dependency4.type=UsesDependency
 target2.width=120
+class.WelcomePage.superclass=greenfoot.World
 target5.name=BattleshipBlack
+class.BattleshipBlues.superclass=BattleShip
 version=2.8.0
 class.BattleshipBlack.image=BattleshipBlack.png
 target6.type=ClassTarget
@@ -57,6 +62,7 @@ target6.y=10
 target1.typeParameters=
 editor.swing.0.x=97
 target6.x=70
+class.WelcomePage.image=Waves.jpg
 target2.height=50
 target4.height=50
 target5.y=10
@@ -65,6 +71,7 @@ target1.name=EnterButton
 class.WelcomeScreen.image=WelcomeScreen V7.0.png
 target4.y=70
 target4.x=70
+class.successWorld.superclass=greenfoot.World
 dependency7.from=EnterButton
 class.BattleshipBlue.image=BattleshipBlue.png
 target3.y=70

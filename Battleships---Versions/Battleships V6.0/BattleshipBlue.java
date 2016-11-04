@@ -24,25 +24,17 @@ public class BattleshipBlue extends Actor
     public void act() 
     {
         // Add your action code here.
-        
-            if(Greenfoot.mouseClicked(this)){
-                if(LogicCore.flag==true){
-                    if(this.number==this.answer) key=1;
-                    World world=getWorld();
-                    world.showText(""+this.number+"",this.getX(),this.getY());
-                    world.removeObject(this);
-                    if(key==1){
-                        world.showText("Blue win",200,200);
-                        Greenfoot.setWorld(new successWorld());
-                    }
-                    LogicCore.flag=false;
-                }
-            
-            };
-        
-        
-        
-        
+        if(Greenfoot.mouseClicked(this)){
+            if(this.number==this.answer) key=1;
+            World world=getWorld();
+            world.showText(""+this.number+"",this.getX(),this.getY());
+            world.removeObject(this);
+            Greenfoot.playSound("blast.wav");
+            if(key==1) {
+                Greenfoot.playSound("Player1.mp3");
+                world.showText("Player 1 wins",200,200);
+            }
+        }
     }    
     
     

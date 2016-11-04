@@ -24,17 +24,16 @@ public class BattleshipBlack extends Actor
     
     public void act() 
     {
-        
-            if(Greenfoot.mouseClicked(this)){
-                if(LogicCore.flag==false){
-                    if(this.number==this.answer) key=1;
-                    World world=getWorld();
-                    world.showText(""+this.number+"",this.getX(),this.getY());
-                    world.removeObject(this);
-                    if(key==1) world.showText("Black win",200,300);
-                }
-                LogicCore.flag=true;
-            };
-        
+        if(Greenfoot.mouseClicked(this)){
+            if(this.number==this.answer) key=1;
+            World world=getWorld();
+            world.showText(""+this.number+"",this.getX(),this.getY());
+            world.removeObject(this);
+            Greenfoot.playSound("blast.wav");
+            if(key==1) {
+                Greenfoot.playSound("Player2.mp3");
+                world.showText("Player 2 wins",200,200);
+            }
+        }
     }    
 }
