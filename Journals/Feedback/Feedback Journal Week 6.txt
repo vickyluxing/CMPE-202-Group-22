@@ -1,0 +1,7 @@
+Feedback Journal Week#6:
+
+We had a meeting during which, from mutual feedback, we felt that the welcome screen of our game was less appealing and can be enhanced. Based on the feedback, the welcome screen of our game was modified. Keeping the same theme and some same elements for the sake of having the same look and feel, some elements were replaced with new elements. After change, the welcome screen was more clean in design, and was accepted with a positive feedback.
+
+We integrated the improved user interface with  the backend code and further discussed the game and identified some bugs in code, by feedback of team members. We worked on bugs and removed one of them during meeting. 
+
+Also, team members gave the feedback that we should extend the game to multiple rounds and choose best of three or five games to declare a winner. The feedback was positively accepted by the team. New screen with user interface elements was developed  for the same purpose. Team members continued to work on their respective tasks.
