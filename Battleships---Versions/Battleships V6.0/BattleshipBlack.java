@@ -33,6 +33,7 @@ public class BattleshipBlack extends Actor
             if(key==1) {
                 Greenfoot.playSound("Player2.mp3");
                 world.showText("Player 2 wins",200,200);
+                Greenfoot.stop();
             }
         }
     }    
