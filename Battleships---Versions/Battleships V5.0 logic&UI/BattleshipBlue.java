@@ -31,9 +31,12 @@ public class BattleshipBlue extends Actor
                     World world=getWorld();
                     world.showText(""+this.number+"",this.getX(),this.getY());
                     world.removeObject(this);
+                    Greenfoot.playSound("blast.wav");
                     if(key==1){
                         world.showText("Blue win",200,200);
+                        Greenfoot.playSound("Player2.mp3");
                         Greenfoot.setWorld(new successWorld());
+                        Greenfoot.stop();
                     }
                     LogicCore.flag=false;
                 }

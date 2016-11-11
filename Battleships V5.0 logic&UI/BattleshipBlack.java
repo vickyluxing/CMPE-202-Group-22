@@ -31,14 +31,8 @@ public class BattleshipBlack extends Actor
                     World world=getWorld();
                     world.showText(""+this.number+"",this.getX(),this.getY());
                     world.removeObject(this);
-                    Greenfoot.playSound("blast.wav");
-                    if(key==1) {
-                        world.showText("Black win",200,300);
-                        Greenfoot.playSound("Player2.mp3");
-                        Greenfoot.setWorld(new successWorld());
-                        Greenfoot.stop();
+                    if(key==1) world.showText("Black win",200,300);
                 }
-            }
                 LogicCore.flag=true;
             };
         

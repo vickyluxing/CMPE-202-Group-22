@@ -1,46 +1,49 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class BattleshipBlack here.
+ * Write a description of class BattleshipBlue here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class BattleshipBlack extends Actor
+public class BattleshipBlue extends Actor
 {
     /**
-     * Act - do whatever the Battleship1 wants to do. This method is called whenever
+     * Act - do whatever the BattleshipBlue wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
-    
     int number;
     int answer;
-    int key=0;
+    int key=0;;
     
-    public BattleshipBlack(int x,int ans){
-        this.number=x;
+    public BattleshipBlue(int x,int ans){
+        number=x;
         this.answer=ans;
     }
     
     public void act() 
     {
+        // Add your action code here.
         
             if(Greenfoot.mouseClicked(this)){
-                if(LogicCore.flag==false){
+                if(LogicCore.flag==true){
                     if(this.number==this.answer) key=1;
                     World world=getWorld();
                     world.showText(""+this.number+"",this.getX(),this.getY());
                     world.removeObject(this);
-                    Greenfoot.playSound("blast.wav");
-                    if(key==1) {
-                        world.showText("Black win",200,300);
-                        Greenfoot.playSound("Player2.mp3");
+                    if(key==1){
+                        world.showText("Blue win",200,200);
                         Greenfoot.setWorld(new successWorld());
-                        Greenfoot.stop();
+                    }
+                    LogicCore.flag=false;
                 }
-            }
-                LogicCore.flag=true;
+            
             };
         
+        
+        
+        
     }    
+    
+    
 }
