@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=BattleshipBlue
-comment0.text=\n\ Write\ a\ description\ of\ class\ BattleshipBlue\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
-comment1.params=x\ ans
-comment1.target=BattleshipBlue(int,\ int)
-comment2.params=
-comment2.target=void\ act()
-numComments=3
