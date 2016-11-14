@@ -1,0 +1,10 @@
+This week, we had some modify on our project. First, we changed our games welcome page, made it more fancy than the previous one. And we add sound to our game when player wins or lose to make it more attractive! Our team member is working on putting our game on docker to achieve multi-players. On the meeting on 
+Wednesday, we all agreed on use restful api which will make our game more efficient.
+
+
+We also had a short meeting on Saturday before class, we talked about the work we have done and the problem we had met in the previous work. Although we keep contacting each other online while we got new ideas and problems, meeting face to face is always a better choice, which make our idea more easy to be understood.
+Our project is getting way much better since our first meet as we modifying it every week. I am strongly believe that our game will win in the final!!!
+
+
+
+
