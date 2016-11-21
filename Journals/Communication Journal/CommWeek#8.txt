@@ -1,3 +1,5 @@
 Communication:
-This week team had a couple of meeting both in person & via conference calls. The main aim of this week was to understand how to implement the game prototype that we have developed into a multiplayer version.Also the team divided the responsibality of each one the different design pattern to each one of the team members. The team zero on what would be best and what is whose string point so that each of the team member can contribute effectively to the team.So each of the team member got an opportunity to select what he/she is good at.
-Also the team started implementing the design patterns this week. Next the team is planning to have more meeting in the coming week as the team feels that the team is able to do better and get better ideas when the team sits for a couple of hours and has a brain storming session about the implementation.
+This was the final week of the project. The team was gearing towards the completion of the project. For this the team had a couple of meeting this week and discussed on the design patterns that we can implement in the project from our team. The team had come up with a couple of ideas on how can they be implemented in the game but still had a few concerns.
+Also the team had discussed this week on various things on finishing the project so that we can have a working model of the game by the end of the allotted time. The team is confident to deliver the game as the team had some regression tests on the project and the results came out in our favour.
+
+It was a very good experience of working with the team.
