@@ -1,0 +1,12 @@
+Feedback Journal Week#8:
+
+This week we contemplated on our game, for what is done already and what needs to be done by the end of the week. The feedback was to complete our tasks, as it is the last week. We were able to completed a lot of tasks distributed among all  team members.
+
+
+There was a feedback within the team that in order to be able to give a demonstration of the game, we should start looking for the external audiences. This way we can have a feedback from real users on the game, about their opinions on the positives and negatives of the experience. Also, the presentation of the game and the underlying concepts to external audience will help in getting the extra credits as well.
+
+
+Further, team worked on how we can implement our game using RESTful services and docker. From feedback within the team, we decided to put a part of functionalities on server side, and to keep other functionalities in client side.
+
+
+We discussed about things we have done so far, and shared each other's development stories and dos and don'ts. We learnt each other's parts this way, and gave our feedback on how these things could have been done in a more efficient manner. It was an ideal and meaningful sprint.
