@@ -1,0 +1,9 @@
+Feedback Journal Week#7:
+
+Week 7 was where we proceeded to add some more sounds in game and we replaced some existing sounds in game, after team gave the feedback that we can make the game more interesting by means of sounds. Team also proceeded on the work of removing the bugs, which were identified last week from feedback of all team members.
+
+Team gave feedback how we can make the user continue the game rounds, and for that purpose, new world was developed for scoreboard and continue functionality and new graphics and buttons were added.
+
+Additionally, from the feedback of team members, we proceeded to make the game more robust by locking the screen components of player who was not supposed to make the next move, allowing only the player who is supposed to make the next move to interact with the screen elements.
+
+This week we shared our views on how we can implement design patterns on our project. We also continued to work on our respective tasks.

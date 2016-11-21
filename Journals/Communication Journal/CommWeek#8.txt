@@ -1,0 +1,5 @@
+Communication:
+This was the final week of the project. The team was gearing towards the completion of the project. For this the team had a couple of meeting this week and discussed on the design patterns that we can implement in the project from our team. The team had come up with a couple of ideas on how can they be implemented in the game but still had a few concerns.
+Also the team had discussed this week on various things on finishing the project so that we can have a working model of the game by the end of the allotted time. The team is confident to deliver the game as the team had some regression tests on the project and the results came out in our favour.
+
+It was a very good experience of working with the team.
